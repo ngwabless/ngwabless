@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngwabless
-- 👀 I’m interested software development
+- 👀 I’m a software development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ngwabless22@gmail.com
